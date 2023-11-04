@@ -22,13 +22,17 @@ https://www.youtube.com/watch?v=ELCBeyVfFPQ
 _________________________
 Running the app:
 - Install the app.
-- Extract the file. 
+- Extract the file.
+- Open up the First-AC-App-The-Info-main folder.
+- Find the First App folder.
 - Find your AC directory.
 - Find the apps folders.
-- Put the file into the python folder.
+- Put the First App folder into the python folder.
 Another way:
 - Install the app.
 - Extract the file (if you want to).
+- Open up the First-AC-App-The-Info-main folder.
+- Find the First App folder.
 - Drag and drop the file into Content Manager (make sure that it is opened).
 - Install in there.
 - Go to the contents tab.
